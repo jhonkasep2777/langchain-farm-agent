@@ -1,1 +1,3 @@
-# langchain-farm-agent
+langchain
+langchain-openai
+python-dotenv
